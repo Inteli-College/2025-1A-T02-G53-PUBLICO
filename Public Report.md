@@ -235,4 +235,4 @@ Future reports will focus on refining data collection instruments, consolidating
   - Harvard Business Review – [HBR](https://hbr.org/topic/mental-health)
 
 - **Internal Documents and Collaborations:**  
-  - Refer to the internal README and collaboration materials detailing the conceptual framework and development roadmap of the Burnout Prevention Platform.
+  - Internal collaboration materials detailing the conceptual project, market and development roadmap of the solution.
