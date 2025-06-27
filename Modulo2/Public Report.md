@@ -1,4 +1,4 @@
-# Public Report: Module 2 - Minimum Viable Product (MVP) Implementation
+# Public Report: Minimum Viable Product (MVP) Implementation
 
 ## Project Team
 
@@ -16,13 +16,17 @@ This report outlines the significant progress made during Module 2, focusing on 
 
 ## Table of Contents
 
-1. [Introduction](#1-introduction)
-2. [Implemented Architecture and Core Components](#2-implemented-architecture-and-core-components)
-3. [Key Features Implemented in the MVP](#3-key-features-implemented-in-the-mvp)
-4. [Development Process and Technologies Utilized](#4-development-process-and-technologies-utilized)
-5. [Challenges Encountered and Learnings](#5-challenges-encountered-and-learnings)
-6. [Future Roadmap and Next Steps](#6-future-roadmap-and-next-steps)
-7. [Conclusion](#7-conclusion)
+- [Public Report: Minimum Viable Product (MVP) Implementation](#public-report-minimum-viable-product-mvp-implementation)
+  - [Project Team](#project-team)
+  - [Executive Summary](#executive-summary)
+  - [Table of Contents](#table-of-contents)
+  - [1. Introduction](#1-introduction)
+  - [2. Implemented Architecture and Core Components](#2-implemented-architecture-and-core-components)
+  - [3. Key Features Implemented in the MVP](#3-key-features-implemented-in-the-mvp)
+  - [4. Development Process and Technologies Utilized](#4-development-process-and-technologies-utilized)
+  - [5. Challenges Encountered and Learnings](#5-challenges-encountered-and-learnings)
+  - [6. Future Roadmap and Next Steps](#6-future-roadmap-and-next-steps)
+  - [7. Conclusion](#7-conclusion)
 
 ---
 
