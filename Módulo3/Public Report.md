@@ -3,7 +3,7 @@
 ## Project Team
 
 - **Member:** Luiz Francisco Granville Gonçalves  
-- **Advisor:** Crishna Iron
+- **Advisor:** Crishna Irion
 - **Institution:** Instituto de Tecnologia e Lideranças - Inteli
   
 ---
