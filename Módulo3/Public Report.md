@@ -3,7 +3,7 @@
 ## Project Team
 
 - **Member:** Luiz Francisco Granville Gonçalves  
-- **Advisor:** Raphael Garcia Moreira  
+- **Advisor:** Crishna Iron
 - **Institution:** Instituto de Tecnologia e Lideranças - Inteli
   
 ---
